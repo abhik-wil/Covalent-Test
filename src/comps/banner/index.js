@@ -14,7 +14,7 @@ const Banner = ({head, subhead, img, color}) => {
           <div className="banner-title">
           <h1>{head}</h1>
             <div className="tag" style={{backgroundColor:color}}>
-              Beta
+              Alpha
             </div>
           </div>
         </div>
